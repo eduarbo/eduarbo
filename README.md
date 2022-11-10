@@ -1,12 +1,12 @@
 <h1><img src="https://files.guts.cc/api/public/dl/ugz81Fqe/pikachu2.gif?inline=true" width="auto" height="32"> Hi strange, I am <strong>Eduardo Ruiz Macias</strong></h1>
 
-<img alt="Night Coding" src="https://files.guts.cc/api/public/dl/ugz81Fqe/tumblr_6f3cdcacd367af92338a938c1eef19d7_b053189e_500.gif?inline=true" align="right" height="100" />
+<img alt="Coding" src="./coding.gif" align="right" height="100" />
 
 
-- 👨🏻‍💻 Doing JavaScript for over 12 years
-- 💾 Born in the late 80’s, raised in the late 90’s and early 00’s
-- 🌴 Working remotely from [Colima, México](https://goo.gl/maps/hVyXv3yBHxrHaF1Q8) (CST 🌎)
-- 📄 Have a look at [my Resume](https://github.com/eduarbo/resume) for more details about me
+- 👨🏻‍💻 Doing JavaScript for over 12 years&nbsp;
+- 💾 Born in the late 80’s, raised in the late 90’s and early 00’s&nbsp;
+- 🌴 Working remotely from [Colima, México](https://goo.gl/maps/hVyXv3yBHxrHaF1Q8) (CST 🌎)&nbsp;
+- 📄 Have a look at [my Resume](https://github.com/eduarbo/resume) for more details about me&nbsp;
 
 
 ## 🛠 My current stack
