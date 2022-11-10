@@ -9,7 +9,7 @@
 
 ## 🛠 My current stack
 
-<img alt="Night Coding" src="https://files.guts.cc/api/public/dl/ugz81Fqe/tumblr_6f3cdcacd367af92338a938c1eef19d7_b053189e_500.gif?inline=true" align="right" height="200" />
+<img alt="Night Coding" src="https://files.guts.cc/api/public/dl/ugz81Fqe/tumblr_6f3cdcacd367af92338a938c1eef19d7_b053189e_500.gif?inline=true" align="right" height="100" />&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/JavaScript--2F334D?style=social&logo=javascript&logoColor=ECD12A)&nbsp;
 ![React](https://img.shields.io/badge/React--2F334D?style=social&logo=react&logoColor=5AD0F1)&nbsp;
