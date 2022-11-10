@@ -1,4 +1,4 @@
-<h1><img src="https://files.guts.cc/api/public/dl/ugz81Fqe/pikachu2.gif?inline=true" width="auto" height="32"> Hi strange, I am <strong>Eduardo Ruiz Macias</strong></h1>
+<h1><img src="https://files.guts.cc/api/public/dl/ugz81Fqe/pikachu2.gif?inline=true" height="32"> Hi strange, I am <strong>Eduardo Ruiz Macias</strong></h1>
 
 <img alt="Coding" src="./coding.gif" align="right" height="100" />
 
