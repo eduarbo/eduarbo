@@ -3,7 +3,7 @@
 <img alt="Coding" src="./coding.gif" align="right" height="100" />
 
 
-- 👨🏻‍💻 Doing JavaScript for over 12 years&nbsp;
+- 👨🏻‍💻 Doing JavaScript for over 15 years&nbsp;
 - 💾 Born in the late 80’s, raised in the late 90’s and early 00’s&nbsp;
 - 🌴 Working remotely from [Colima, México](https://goo.gl/maps/hVyXv3yBHxrHaF1Q8) (CST 🌎)&nbsp;
 - 📄 Have a look at [my Resume](https://github.com/eduarbo/resume) for more details about me&nbsp;
